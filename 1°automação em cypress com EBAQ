@@ -1,0 +1,7 @@
+///<reference types="cypress"/>
+
+describe('funcionalidade: login',()=> {
+
+    it('Deve fazer login com sucesso', ()=> {
+        cy.visit, 'https://www.redefrete.com.br/seja-um-entregador/'})
+})
